@@ -1,0 +1,1612 @@
+{
+  "vaultName": "website vault",
+  "lastExport": 1741607709974,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "2300/_not_published/Bases.md",
+    "2300/_not_published/DUMP.md",
+    "2300/_not_published/Syllabus Updates.md",
+    "2300/_not_published/Untitled.md",
+    "2300/_not_published/Untitled 1.md",
+    "2300/code/troubleshooting import.md",
+    "2300/Example Proofs/contraposition proof.md",
+    "2300/2300 Home.md",
+    "2300/2300 Week 9 prep.md",
+    "2300/Base 2 Expansion.md",
+    "2300/base 10 sums and products.md",
+    "2300/Bayes Example.md",
+    "2300/Bayes Rule.md",
+    "2300/Binary, Decimal, Octal, and Hexadecimal Conversions.md",
+    "2300/Binomial Distribution Expected Value(do something with it).md",
+    "2300/central limit theorem.md",
+    "2300/Combinations and Permutations.md",
+    "2300/Common Counting Problem Types.md",
+    "2300/counting examples.md",
+    "2300/Counting Rules.md",
+    "2300/Deck of Cards and Coin Flip Examples.md",
+    "2300/Direct, Contraposition and Contradiction.md",
+    "2300/Discrete Probability.md",
+    "2300/Fall 2024 2300.md",
+    "2300/General Base Expansion.md",
+    "2300/Generalized Pigeonhole Principle.md",
+    "2300/generated_problems_{date}{time}.md",
+    "2300/Geometric Expected Value Derivation.md",
+    "2300/Group Questions.md",
+    "2300/Introduction to Discrete Probability.md",
+    "2300/Kanban.md",
+    "2300/2300 Logic.md",
+    "2300/Logic Practice Problems.md",
+    "2300/Mathematical Axioms.md",
+    "2300/Modular Exponentiation.md",
+    "2300/Number Theory Basics.md",
+    "2300/Plan VS Strategy.md",
+    "2300/Probability Definitions.md",
+    "2300/Product Rule Problems.md",
+    "2300/Proof Techniques (old).md",
+    "2300/proofs_quiz.md",
+    "2300/set duality.md",
+    "2300/Strong Induction.md",
+    "2300/Untitled.md",
+    "2300/Untitled 1.md",
+    "2300/Untitled 2.md",
+    "2300/Weak Induction.md",
+    "2300/Week 8.md",
+    "2300/z3 pipes getting setup.md",
+    "2300/z3 pipes project overview.md",
+    "3004/2.4 Sequences and Sums.md",
+    "3004/3004 Data Structures Arrays(old?).md",
+    "3004/3004 Home.md",
+    "3004/Algorithmic Analysis.md",
+    "3004/Arrays.md",
+    "3004/Asymptotic Notation.md",
+    "3004/Asymptotic Notation Overview.md",
+    "3004/Binary Trees.md",
+    "3004/Counting by Hand Using the RAM Model.md",
+    "3004/Data Structures and Abstract Data Types Overview.md",
+    "3004/Diffie Helman Key Exchange.md",
+    "3004/Doubly Linked List (DLL) Implementation.md",
+    "3004/Dynamic Arrays.md",
+    "3004/Exponential Modularity.md",
+    "3004/Finding the Minimum in an Unsorted List and Binary Search in a Sorted List.md",
+    "3004/Height of a Binary Tree and Search Complexity in a BST.md",
+    "3004/HW 3 3004.md",
+    "3004/Instruction Counting in Python (bytecode).md",
+    "3004/Jerome.md",
+    "3004/Log Relationship Between Tree Size and Height.md",
+    "3004/Rainfall problem.md",
+    "3004/Set ADT.md",
+    "3004/Singly Linked List (SLL) Implementation.md",
+    "3004/Subtree Property in AVL Trees.md",
+    "3004/Time Complexity Analysis of a Balanced Binary Tree (Set Implementation).md",
+    "3004/Understanding Logarithms and Exponents in Base 2.md",
+    "3004/Understanding Lower Bounds, Omega Notation.md",
+    "3004/Understanding Upper Bound Notation Big O.md",
+    "3004/Week 9.md",
+    "Advising Notes/Adding or dropping a minor or major.md",
+    "Advising Notes/Advising (review and clean).md",
+    "Advising Notes/advising faculty resources.md",
+    "Advising Notes/Alex Contact Info.md",
+    "Advising Notes/Before the PIN removal meeting.md",
+    "Advising Notes/Breadth Satisfying Courses.md",
+    "Advising Notes/BSCS.md",
+    "Advising Notes/Course Number Attributes.md",
+    "Advising Notes/cs advising.md",
+    "Advising Notes/Distinction.md",
+    "Advising Notes/Faculty.md",
+    "Advising Notes/Games Major.md",
+    "Advising Notes/Leading by Learning.md",
+    "Advising Notes/Math Cognate.md",
+    "Advising Notes/Overview BS.md",
+    "Advising Notes/Prerequesites.md",
+    "Advising Notes/Study abroad.md",
+    "Advising Notes/Undergrad Degree Progress Self-Check.md",
+    "Advising Notes/Upcoming course schedule.md",
+    "Advising Notes/Winter25Schedule.md",
+    "Rosen/7.1 An Introduction to Discrete Probability.md",
+    "Rosen/7.3 Bayes’ Theorem.md",
+    "Rosen/6.4 Binomial Coefficients and Identities.md",
+    "Rosen/7.4 Expected Value and Variance.md",
+    "Rosen/6.5 Generalized Permutations and Combinations.md",
+    "Rosen/6.6 Generating Permutations and Combinations.md",
+    "Rosen/6.3 Permutations and Combinations.md",
+    "Rosen/7.2 Probability Theory.md",
+    "Rosen/6.1 The Basics of Counting.md",
+    "Rosen/6.2 The Pigeonhole Principle.md",
+    "Rosen Videos/Conditional Statements.md",
+    "Rosen Videos/Direct Proofs.md",
+    "Rosen Videos/Logic and English Sentences.md",
+    "Rosen Videos/Logic and English Sentences (Revisited).md",
+    "Rosen Videos/Logical Operators, Not, And, Or.md",
+    "Rosen Videos/Mathematical Propositions Worksheet.md",
+    "Rosen Videos/Negating Expressions.md",
+    "Rosen Videos/Nested Quantifiers.md",
+    "Rosen Videos/Pigeon Hole Principle.md",
+    "Rosen Videos/Proof by Cases.md",
+    "Rosen Videos/Proof by Contradiction.md",
+    "Rosen Videos/Proof by Contradiction for Conditional Statements.md",
+    "Rosen Videos/Proof by Contrapositive.md",
+    "Rosen Videos/Propositional Equivalences Using Logical Laws.md",
+    "Rosen Videos/Propositional Equivalences Using Truth Tables.md",
+    "Rosen Videos/Proving Biconditional Statements.md",
+    "Rosen Videos/Sum Rule and Subtraction Rule.md",
+    "Rosen Videos/Tautologies, Contradictions, Contingencies, and Satisfiability.md",
+    "Rosen Videos/The Multiplication Principle of Counting.md",
+    "Rosen Videos/Tree Diagrams Worksheet.md",
+    "Rosen Videos/Truth Tables.md",
+    "Rosen Videos/Universal and Existential Quantifiers.md",
+    "Rosen Videos/YouTube Playlists.md",
+    "lib/media/pasted-image-20250304134726.png",
+    "lib/media/math_appendix_proofs.pdf",
+    "lib/media/pasted-image-20241017215916.png",
+    "lib/media/pasted-image-20241021205230.png",
+    "lib/media/pasted-image-20241021205443.png",
+    "lib/media/pasted-image-20241017150228.png",
+    "lib/media/pasted-image-20241017150855.png",
+    "lib/media/pasted-image-20250220163624.png",
+    "lib/media/pasted-image-20250220163640.png",
+    "lib/media/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people.pdf",
+    "lib/media/introduction.to.algorithms.4th.leiserson.stein.rivest.cormen.mit.press.9780262046305.ebooksworld.ir.pdf",
+    "lib/media/pasted-image-20250305115742.png",
+    "lib/media/pasted-image-20250305120404.png",
+    "lib/media/pasted-image-20241028211834.png",
+    "lib/media/pasted-image-20241028212441.png",
+    "lib/media/leading-by-learning.pdf",
+    "lib/media/pasted-image-20250222142104.png",
+    "lib/media/pasted-image-20250222141542.png",
+    "lib/media/7.1-an-introduction-to-discrete-probability.pdf",
+    "lib/media/7.3-bayes’-theorem.pdf",
+    "lib/media/6.4-binomial-coefficients-and-identities.pdf",
+    "lib/media/7.4-expected-value-and-variance.pdf",
+    "lib/media/6.5-generalized-permutations-and-combinations.pdf",
+    "lib/media/6.6-generating-permutations-and-combinations.pdf",
+    "lib/media/6.3-permutations-and-combinations.pdf",
+    "lib/media/6.1-the-basics-of-counting.pdf",
+    "lib/media/6.2-the-pigeonhole-principle.pdf",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "2300/_not_published/Bases.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 129,
+      "exportedPath": "2300/_not_published/bases.html",
+      "dependencies": []
+    },
+    "2300/_not_published/DUMP.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 213,
+      "exportedPath": "2300/_not_published/dump.html",
+      "dependencies": []
+    },
+    "2300/_not_published/Syllabus Updates.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1005,
+      "exportedPath": "2300/_not_published/syllabus-updates.html",
+      "dependencies": []
+    },
+    "2300/_not_published/Untitled.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 0,
+      "exportedPath": "2300/_not_published/untitled.html",
+      "dependencies": []
+    },
+    "2300/_not_published/Untitled 1.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 0,
+      "exportedPath": "2300/_not_published/untitled-1.html",
+      "dependencies": []
+    },
+    "2300/code/troubleshooting import.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 491,
+      "exportedPath": "2300/code/troubleshooting-import.html",
+      "dependencies": []
+    },
+    "2300/Example Proofs/contraposition proof.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 7373,
+      "exportedPath": "2300/example-proofs/contraposition-proof.html",
+      "dependencies": []
+    },
+    "2300/2300 Home.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 436,
+      "exportedPath": "2300/2300-home.html",
+      "dependencies": []
+    },
+    "2300/2300 Week 9 prep.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1956,
+      "exportedPath": "2300/2300-week-9-prep.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250304134726.png"
+      ]
+    },
+    "2300/Base 2 Expansion.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 337,
+      "exportedPath": "2300/base-2-expansion.html",
+      "dependencies": []
+    },
+    "2300/base 10 sums and products.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1216,
+      "exportedPath": "2300/base-10-sums-and-products.html",
+      "dependencies": []
+    },
+    "2300/Bayes Example.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2619,
+      "exportedPath": "2300/bayes-example.html",
+      "dependencies": []
+    },
+    "2300/Bayes Rule.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1181,
+      "exportedPath": "2300/bayes-rule.html",
+      "dependencies": []
+    },
+    "2300/Binary, Decimal, Octal, and Hexadecimal Conversions.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1991,
+      "exportedPath": "2300/binary,-decimal,-octal,-and-hexadecimal-conversions.html",
+      "dependencies": []
+    },
+    "2300/Binomial Distribution Expected Value(do something with it).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2026,
+      "exportedPath": "2300/binomial-distribution-expected-value(do-something-with-it).html",
+      "dependencies": []
+    },
+    "2300/central limit theorem.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 363,
+      "exportedPath": "2300/central-limit-theorem.html",
+      "dependencies": []
+    },
+    "2300/Combinations and Permutations.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2151,
+      "exportedPath": "2300/combinations-and-permutations.html",
+      "dependencies": []
+    },
+    "2300/Common Counting Problem Types.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3257,
+      "exportedPath": "2300/common-counting-problem-types.html",
+      "dependencies": []
+    },
+    "2300/counting examples.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 6844,
+      "exportedPath": "2300/counting-examples.html",
+      "dependencies": []
+    },
+    "2300/Counting Rules.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 10083,
+      "exportedPath": "2300/counting-rules.html",
+      "dependencies": []
+    },
+    "2300/Deck of Cards and Coin Flip Examples.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2676,
+      "exportedPath": "2300/deck-of-cards-and-coin-flip-examples.html",
+      "dependencies": []
+    },
+    "2300/Direct, Contraposition and Contradiction.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 8851,
+      "exportedPath": "2300/direct,-contraposition-and-contradiction.html",
+      "dependencies": []
+    },
+    "2300/Discrete Probability.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2497,
+      "exportedPath": "2300/discrete-probability.html",
+      "dependencies": []
+    },
+    "2300/Fall 2024 2300.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 616,
+      "exportedPath": "2300/fall-2024-2300.html",
+      "dependencies": []
+    },
+    "2300/General Base Expansion.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1199,
+      "exportedPath": "2300/general-base-expansion.html",
+      "dependencies": []
+    },
+    "2300/Generalized Pigeonhole Principle.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2325,
+      "exportedPath": "2300/generalized-pigeonhole-principle.html",
+      "dependencies": []
+    },
+    "2300/generated_problems_{date}{time}.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1765,
+      "exportedPath": "2300/generated_problems_{date}{time}.html",
+      "dependencies": []
+    },
+    "2300/Geometric Expected Value Derivation.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2509,
+      "exportedPath": "2300/geometric-expected-value-derivation.html",
+      "dependencies": []
+    },
+    "2300/Group Questions.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 21,
+      "exportedPath": "2300/group-questions.html",
+      "dependencies": []
+    },
+    "2300/Introduction to Discrete Probability.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2690,
+      "exportedPath": "2300/introduction-to-discrete-probability.html",
+      "dependencies": []
+    },
+    "2300/Kanban.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1116,
+      "exportedPath": "2300/kanban.html",
+      "dependencies": []
+    },
+    "2300/2300 Logic.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 600,
+      "exportedPath": "2300/2300-logic.html",
+      "dependencies": []
+    },
+    "2300/Logic Practice Problems.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 7722,
+      "exportedPath": "2300/logic-practice-problems.html",
+      "dependencies": []
+    },
+    "2300/Mathematical Axioms.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 279,
+      "exportedPath": "2300/mathematical-axioms.html",
+      "dependencies": [
+        "lib/media/math_appendix_proofs.pdf"
+      ]
+    },
+    "2300/Modular Exponentiation.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1332,
+      "exportedPath": "2300/modular-exponentiation.html",
+      "dependencies": []
+    },
+    "2300/Number Theory Basics.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3232,
+      "exportedPath": "2300/number-theory-basics.html",
+      "dependencies": []
+    },
+    "2300/Plan VS Strategy.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 117,
+      "exportedPath": "2300/plan-vs-strategy.html",
+      "dependencies": []
+    },
+    "2300/Probability Definitions.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5788,
+      "exportedPath": "2300/probability-definitions.html",
+      "dependencies": []
+    },
+    "2300/Product Rule Problems.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3740,
+      "exportedPath": "2300/product-rule-problems.html",
+      "dependencies": []
+    },
+    "2300/Proof Techniques (old).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4696,
+      "exportedPath": "2300/proof-techniques-(old).html",
+      "dependencies": []
+    },
+    "2300/proofs_quiz.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 496,
+      "exportedPath": "2300/proofs_quiz.html",
+      "dependencies": []
+    },
+    "2300/set duality.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 829,
+      "exportedPath": "2300/set-duality.html",
+      "dependencies": []
+    },
+    "2300/Strong Induction.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2807,
+      "exportedPath": "2300/strong-induction.html",
+      "dependencies": []
+    },
+    "2300/Untitled.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 77,
+      "exportedPath": "2300/untitled.html",
+      "dependencies": []
+    },
+    "2300/Untitled 1.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 0,
+      "exportedPath": "2300/untitled-1.html",
+      "dependencies": []
+    },
+    "2300/Untitled 2.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 79,
+      "exportedPath": "2300/untitled-2.html",
+      "dependencies": []
+    },
+    "2300/Weak Induction.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2666,
+      "exportedPath": "2300/weak-induction.html",
+      "dependencies": []
+    },
+    "2300/Week 8.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3244,
+      "exportedPath": "2300/week-8.html",
+      "dependencies": []
+    },
+    "2300/z3 pipes getting setup.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5930,
+      "exportedPath": "2300/z3-pipes-getting-setup.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241017215916.png",
+        "lib/media/pasted-image-20241021205230.png",
+        "lib/media/pasted-image-20241021205443.png"
+      ]
+    },
+    "2300/z3 pipes project overview.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1994,
+      "exportedPath": "2300/z3-pipes-project-overview.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241017150228.png",
+        "lib/media/pasted-image-20241017150855.png"
+      ]
+    },
+    "3004/2.4 Sequences and Sums.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 559,
+      "exportedPath": "3004/2.4-sequences-and-sums.html",
+      "dependencies": []
+    },
+    "3004/3004 Data Structures Arrays(old?).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 10247,
+      "exportedPath": "3004/3004-data-structures-arrays(old/3004-data-structures-arrays(old.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250220163624.png",
+        "lib/media/pasted-image-20250220163640.png"
+      ]
+    },
+    "3004/3004 Home.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3984,
+      "exportedPath": "3004/3004-home.html",
+      "dependencies": [
+        "lib/media/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people.pdf",
+        "lib/media/introduction.to.algorithms.4th.leiserson.stein.rivest.cormen.mit.press.9780262046305.ebooksworld.ir.pdf"
+      ]
+    },
+    "3004/Algorithmic Analysis.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3758,
+      "exportedPath": "3004/algorithmic-analysis.html",
+      "dependencies": []
+    },
+    "3004/Arrays.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2012,
+      "exportedPath": "3004/arrays.html",
+      "dependencies": []
+    },
+    "3004/Asymptotic Notation.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3056,
+      "exportedPath": "3004/asymptotic-notation.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250305115742.png",
+        "lib/media/pasted-image-20250305120404.png"
+      ]
+    },
+    "3004/Asymptotic Notation Overview.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 10296,
+      "exportedPath": "3004/asymptotic-notation-overview.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250220163624.png",
+        "lib/media/pasted-image-20250220163640.png"
+      ]
+    },
+    "3004/Binary Trees.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2189,
+      "exportedPath": "3004/binary-trees.html",
+      "dependencies": []
+    },
+    "3004/Counting by Hand Using the RAM Model.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2167,
+      "exportedPath": "3004/counting-by-hand-using-the-ram-model.html",
+      "dependencies": []
+    },
+    "3004/Data Structures and Abstract Data Types Overview.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2807,
+      "exportedPath": "3004/data-structures-and-abstract-data-types-overview.html",
+      "dependencies": []
+    },
+    "3004/Diffie Helman Key Exchange.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2960,
+      "exportedPath": "3004/diffie-helman-key-exchange.html",
+      "dependencies": []
+    },
+    "3004/Doubly Linked List (DLL) Implementation.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3217,
+      "exportedPath": "3004/doubly-linked-list-(dll)-implementation.html",
+      "dependencies": []
+    },
+    "3004/Dynamic Arrays.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3148,
+      "exportedPath": "3004/dynamic-arrays.html",
+      "dependencies": []
+    },
+    "3004/Exponential Modularity.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1813,
+      "exportedPath": "3004/exponential-modularity.html",
+      "dependencies": []
+    },
+    "3004/Finding the Minimum in an Unsorted List and Binary Search in a Sorted List.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2806,
+      "exportedPath": "3004/finding-the-minimum-in-an-unsorted-list-and-binary-search-in-a-sorted-list.html",
+      "dependencies": []
+    },
+    "3004/Height of a Binary Tree and Search Complexity in a BST.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3552,
+      "exportedPath": "3004/height-of-a-binary-tree-and-search-complexity-in-a-bst.html",
+      "dependencies": []
+    },
+    "3004/HW 3 3004.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4134,
+      "exportedPath": "3004/hw-3-3004.html",
+      "dependencies": []
+    },
+    "3004/Instruction Counting in Python (bytecode).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2491,
+      "exportedPath": "3004/instruction-counting-in-python-(bytecode).html",
+      "dependencies": []
+    },
+    "3004/Jerome.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 6824,
+      "exportedPath": "3004/jerome.html",
+      "dependencies": []
+    },
+    "3004/Log Relationship Between Tree Size and Height.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2053,
+      "exportedPath": "3004/log-relationship-between-tree-size-and-height.html",
+      "dependencies": []
+    },
+    "3004/Rainfall problem.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3588,
+      "exportedPath": "3004/rainfall-problem.html",
+      "dependencies": []
+    },
+    "3004/Set ADT.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1686,
+      "exportedPath": "3004/set-adt.html",
+      "dependencies": []
+    },
+    "3004/Singly Linked List (SLL) Implementation.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2879,
+      "exportedPath": "3004/singly-linked-list-(sll)-implementation.html",
+      "dependencies": []
+    },
+    "3004/Subtree Property in AVL Trees.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2238,
+      "exportedPath": "3004/subtree-property-in-avl-trees.html",
+      "dependencies": []
+    },
+    "3004/Time Complexity Analysis of a Balanced Binary Tree (Set Implementation).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2592,
+      "exportedPath": "3004/time-complexity-analysis-of-a-balanced-binary-tree-(set-implementation).html",
+      "dependencies": []
+    },
+    "3004/Understanding Logarithms and Exponents in Base 2.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1888,
+      "exportedPath": "3004/understanding-logarithms-and-exponents-in-base-2.html",
+      "dependencies": []
+    },
+    "3004/Understanding Lower Bounds, Omega Notation.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2226,
+      "exportedPath": "3004/understanding-lower-bounds,-omega-notation.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250305120404.png"
+      ]
+    },
+    "3004/Understanding Upper Bound Notation Big O.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2109,
+      "exportedPath": "3004/understanding-upper-bound-notation-big-o.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250305115742.png"
+      ]
+    },
+    "3004/Week 9.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 489,
+      "exportedPath": "3004/week-9.html",
+      "dependencies": []
+    },
+    "Advising Notes/Adding or dropping a minor or major.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 833,
+      "exportedPath": "advising-notes/adding-or-dropping-a-minor-or-major.html",
+      "dependencies": []
+    },
+    "Advising Notes/Advising (review and clean).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1716,
+      "exportedPath": "advising-notes/advising-(review-and-clean).html",
+      "dependencies": []
+    },
+    "Advising Notes/advising faculty resources.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1260,
+      "exportedPath": "advising-notes/advising-faculty-resources.html",
+      "dependencies": []
+    },
+    "Advising Notes/Alex Contact Info.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 499,
+      "exportedPath": "advising-notes/alex-contact-info.html",
+      "dependencies": []
+    },
+    "Advising Notes/Before the PIN removal meeting.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 450,
+      "exportedPath": "advising-notes/before-the-pin-removal-meeting.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241028211834.png",
+        "lib/media/pasted-image-20241028212441.png"
+      ]
+    },
+    "Advising Notes/Breadth Satisfying Courses.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1563,
+      "exportedPath": "advising-notes/breadth-satisfying-courses.html",
+      "dependencies": []
+    },
+    "Advising Notes/BSCS.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 7918,
+      "exportedPath": "advising-notes/bscs.html",
+      "dependencies": []
+    },
+    "Advising Notes/Course Number Attributes.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 450,
+      "exportedPath": "advising-notes/course-number-attributes.html",
+      "dependencies": []
+    },
+    "Advising Notes/cs advising.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 9536,
+      "exportedPath": "advising-notes/cs-advising.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241028211834.png",
+        "lib/media/pasted-image-20241028212441.png"
+      ]
+    },
+    "Advising Notes/Distinction.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 83,
+      "exportedPath": "advising-notes/distinction.html",
+      "dependencies": []
+    },
+    "Advising Notes/Faculty.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 299,
+      "exportedPath": "advising-notes/faculty.html",
+      "dependencies": []
+    },
+    "Advising Notes/Games Major.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 631,
+      "exportedPath": "advising-notes/games-major.html",
+      "dependencies": []
+    },
+    "Advising Notes/Leading by Learning.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 129,
+      "exportedPath": "advising-notes/leading-by-learning.html",
+      "dependencies": [
+        "lib/media/leading-by-learning.pdf"
+      ]
+    },
+    "Advising Notes/Math Cognate.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 388,
+      "exportedPath": "advising-notes/math-cognate.html",
+      "dependencies": []
+    },
+    "Advising Notes/Overview BS.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5412,
+      "exportedPath": "advising-notes/overview-bs.html",
+      "dependencies": []
+    },
+    "Advising Notes/Prerequesites.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 566,
+      "exportedPath": "advising-notes/prerequesites.html",
+      "dependencies": []
+    },
+    "Advising Notes/Study abroad.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1797,
+      "exportedPath": "advising-notes/study-abroad.html",
+      "dependencies": []
+    },
+    "Advising Notes/Undergrad Degree Progress Self-Check.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4604,
+      "exportedPath": "advising-notes/undergrad-degree-progress-self-check.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250222142104.png",
+        "lib/media/pasted-image-20250222141542.png",
+        "lib/media/pasted-image-20250222142104.png",
+        "lib/media/pasted-image-20250222141542.png"
+      ]
+    },
+    "Advising Notes/Upcoming course schedule.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 514,
+      "exportedPath": "advising-notes/upcoming-course-schedule.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241028211834.png",
+        "lib/media/pasted-image-20241028212441.png"
+      ]
+    },
+    "Advising Notes/Winter25Schedule.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 127,
+      "exportedPath": "advising-notes/winter25schedule.html",
+      "dependencies": []
+    },
+    "Rosen/7.1 An Introduction to Discrete Probability.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4273,
+      "exportedPath": "rosen/7.1-an-introduction-to-discrete-probability.html",
+      "dependencies": [
+        "lib/media/7.1-an-introduction-to-discrete-probability.pdf"
+      ]
+    },
+    "Rosen/7.3 Bayes’ Theorem.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4015,
+      "exportedPath": "rosen/7.3-bayes’-theorem.html",
+      "dependencies": [
+        "lib/media/7.3-bayes’-theorem.pdf"
+      ]
+    },
+    "Rosen/6.4 Binomial Coefficients and Identities.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2731,
+      "exportedPath": "rosen/6.4-binomial-coefficients-and-identities.html",
+      "dependencies": [
+        "lib/media/6.4-binomial-coefficients-and-identities.pdf"
+      ]
+    },
+    "Rosen/7.4 Expected Value and Variance.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3346,
+      "exportedPath": "rosen/7.4-expected-value-and-variance.html",
+      "dependencies": [
+        "lib/media/7.4-expected-value-and-variance.pdf"
+      ]
+    },
+    "Rosen/6.5 Generalized Permutations and Combinations.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4231,
+      "exportedPath": "rosen/6.5-generalized-permutations-and-combinations.html",
+      "dependencies": [
+        "lib/media/6.5-generalized-permutations-and-combinations.pdf"
+      ]
+    },
+    "Rosen/6.6 Generating Permutations and Combinations.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2979,
+      "exportedPath": "rosen/6.6-generating-permutations-and-combinations.html",
+      "dependencies": [
+        "lib/media/6.6-generating-permutations-and-combinations.pdf"
+      ]
+    },
+    "Rosen/6.3 Permutations and Combinations.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2833,
+      "exportedPath": "rosen/6.3-permutations-and-combinations.html",
+      "dependencies": [
+        "lib/media/6.3-permutations-and-combinations.pdf"
+      ]
+    },
+    "Rosen/7.2 Probability Theory.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3997,
+      "exportedPath": "rosen/7.2-probability-theory.html",
+      "dependencies": []
+    },
+    "Rosen/6.1 The Basics of Counting.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4998,
+      "exportedPath": "rosen/6.1-the-basics-of-counting.html",
+      "dependencies": [
+        "lib/media/6.1-the-basics-of-counting.pdf"
+      ]
+    },
+    "Rosen/6.2 The Pigeonhole Principle.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5141,
+      "exportedPath": "rosen/6.2-the-pigeonhole-principle.html",
+      "dependencies": [
+        "lib/media/6.2-the-pigeonhole-principle.pdf"
+      ]
+    },
+    "Rosen Videos/Conditional Statements.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4311,
+      "exportedPath": "rosen-videos/conditional-statements.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Direct Proofs.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3516,
+      "exportedPath": "rosen-videos/direct-proofs.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Logic and English Sentences.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2911,
+      "exportedPath": "rosen-videos/logic-and-english-sentences.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Logic and English Sentences (Revisited).md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3562,
+      "exportedPath": "rosen-videos/logic-and-english-sentences-(revisited).html",
+      "dependencies": []
+    },
+    "Rosen Videos/Logical Operators, Not, And, Or.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3876,
+      "exportedPath": "rosen-videos/logical-operators,-not,-and,-or.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Mathematical Propositions Worksheet.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2810,
+      "exportedPath": "rosen-videos/mathematical-propositions-worksheet.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Negating Expressions.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3658,
+      "exportedPath": "rosen-videos/negating-expressions.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Nested Quantifiers.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4971,
+      "exportedPath": "rosen-videos/nested-quantifiers.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Pigeon Hole Principle.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3278,
+      "exportedPath": "rosen-videos/pigeon-hole-principle.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Proof by Cases.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3921,
+      "exportedPath": "rosen-videos/proof-by-cases.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Proof by Contradiction.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4223,
+      "exportedPath": "rosen-videos/proof-by-contradiction.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Proof by Contradiction for Conditional Statements.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4601,
+      "exportedPath": "rosen-videos/proof-by-contradiction-for-conditional-statements.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Proof by Contrapositive.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3881,
+      "exportedPath": "rosen-videos/proof-by-contrapositive.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Propositional Equivalences Using Logical Laws.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2960,
+      "exportedPath": "rosen-videos/propositional-equivalences-using-logical-laws.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Propositional Equivalences Using Truth Tables.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 4000,
+      "exportedPath": "rosen-videos/propositional-equivalences-using-truth-tables.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Proving Biconditional Statements.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3927,
+      "exportedPath": "rosen-videos/proving-biconditional-statements.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Sum Rule and Subtraction Rule.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2581,
+      "exportedPath": "rosen-videos/sum-rule-and-subtraction-rule.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Tautologies, Contradictions, Contingencies, and Satisfiability.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3875,
+      "exportedPath": "rosen-videos/tautologies,-contradictions,-contingencies,-and-satisfiability.html",
+      "dependencies": []
+    },
+    "Rosen Videos/The Multiplication Principle of Counting.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2304,
+      "exportedPath": "rosen-videos/the-multiplication-principle-of-counting.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Tree Diagrams Worksheet.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2876,
+      "exportedPath": "rosen-videos/tree-diagrams-worksheet.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Truth Tables.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3983,
+      "exportedPath": "rosen-videos/truth-tables.html",
+      "dependencies": []
+    },
+    "Rosen Videos/Universal and Existential Quantifiers.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3445,
+      "exportedPath": "rosen-videos/universal-and-existential-quantifiers.html",
+      "dependencies": []
+    },
+    "Rosen Videos/YouTube Playlists.md": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 462,
+      "exportedPath": "rosen-videos/youtube-playlists.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250304134726.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 7109,
+      "exportedPath": "lib/media/pasted-image-20250304134726.png",
+      "dependencies": []
+    },
+    "lib/media/math_appendix_proofs.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 512259,
+      "exportedPath": "lib/media/math_appendix_proofs.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241017215916.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 50633,
+      "exportedPath": "lib/media/pasted-image-20241017215916.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241021205230.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 88990,
+      "exportedPath": "lib/media/pasted-image-20241021205230.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241021205443.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 100669,
+      "exportedPath": "lib/media/pasted-image-20241021205443.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241017150228.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5325,
+      "exportedPath": "lib/media/pasted-image-20241017150228.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241017150855.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5371,
+      "exportedPath": "lib/media/pasted-image-20241017150855.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250220163624.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 47928,
+      "exportedPath": "lib/media/pasted-image-20250220163624.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250220163640.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 57220,
+      "exportedPath": "lib/media/pasted-image-20250220163640.png",
+      "dependencies": []
+    },
+    "lib/media/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 26021262,
+      "exportedPath": "lib/media/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people.pdf",
+      "dependencies": []
+    },
+    "lib/media/introduction.to.algorithms.4th.leiserson.stein.rivest.cormen.mit.press.9780262046305.ebooksworld.ir.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 12261102,
+      "exportedPath": "lib/media/introduction.to.algorithms.4th.leiserson.stein.rivest.cormen.mit.press.9780262046305.ebooksworld.ir.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250305115742.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 272027,
+      "exportedPath": "lib/media/pasted-image-20250305115742.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250305120404.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 187899,
+      "exportedPath": "lib/media/pasted-image-20250305120404.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241028211834.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 365705,
+      "exportedPath": "lib/media/pasted-image-20241028211834.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241028212441.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 216747,
+      "exportedPath": "lib/media/pasted-image-20241028212441.png",
+      "dependencies": []
+    },
+    "lib/media/leading-by-learning.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 2890852,
+      "exportedPath": "lib/media/leading-by-learning.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250222142104.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 46098,
+      "exportedPath": "lib/media/pasted-image-20250222142104.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250222141542.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 45974,
+      "exportedPath": "lib/media/pasted-image-20250222141542.png",
+      "dependencies": []
+    },
+    "lib/media/7.1-an-introduction-to-discrete-probability.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1027932,
+      "exportedPath": "lib/media/7.1-an-introduction-to-discrete-probability.pdf",
+      "dependencies": []
+    },
+    "lib/media/7.3-bayes’-theorem.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 970800,
+      "exportedPath": "lib/media/7.3-bayes’-theorem.pdf",
+      "dependencies": []
+    },
+    "lib/media/6.4-binomial-coefficients-and-identities.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1039888,
+      "exportedPath": "lib/media/6.4-binomial-coefficients-and-identities.pdf",
+      "dependencies": []
+    },
+    "lib/media/7.4-expected-value-and-variance.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1879558,
+      "exportedPath": "lib/media/7.4-expected-value-and-variance.pdf",
+      "dependencies": []
+    },
+    "lib/media/6.5-generalized-permutations-and-combinations.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1056094,
+      "exportedPath": "lib/media/6.5-generalized-permutations-and-combinations.pdf",
+      "dependencies": []
+    },
+    "lib/media/6.6-generating-permutations-and-combinations.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 528234,
+      "exportedPath": "lib/media/6.6-generating-permutations-and-combinations.pdf",
+      "dependencies": []
+    },
+    "lib/media/6.3-permutations-and-combinations.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 756680,
+      "exportedPath": "lib/media/6.3-permutations-and-combinations.pdf",
+      "dependencies": []
+    },
+    "lib/media/6.1-the-basics-of-counting.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1300779,
+      "exportedPath": "lib/media/6.1-the-basics-of-counting.pdf",
+      "dependencies": []
+    },
+    "lib/media/6.2-the-pigeonhole-principle.pdf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1156040,
+      "exportedPath": "lib/media/6.2-the-pigeonhole-principle.pdf",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 51901,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 11298,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 9720,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 353,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 3630,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1741607709974,
+      "sourceSize": 916,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
